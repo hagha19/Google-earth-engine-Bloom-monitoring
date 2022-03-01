@@ -1,4 +1,4 @@
-/**** Start of imports. If edited, may not auto-convert in the playground. ****/
+/**** Start of imports. If edited, may not auto-convert in the playground1. ****/
 var L5 = ee.ImageCollection("LANDSAT/LM05/C01/T2"),
     poly2 = 
     /* color: #d63000 */
